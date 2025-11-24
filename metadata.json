@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "description": "IELTS Speaking Practice with Gemini Live",
+  "name": "App"
+}
